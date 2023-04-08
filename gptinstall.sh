@@ -4,6 +4,3 @@
 	echo 'export PATH="$PATH:$HOME/chatgpt"' >> ~/.zshrc
 	echo 'export PATH="$PATH:$HOME/chatgpt"' >> ~/.bashrc
 	echo '\n--------------\ninstallation done:\n Usage: chatgbt <question>'
-else
-   echo 'You have to install zshell or bash to install chatgpt'
-fi
