@@ -24,7 +24,7 @@ then close your terminal, and open a new one.
 
 to say "Hi" to chatgpt you can use the following command
 
-    chatgbt "Hi"
+    chatgpt "Hi"
 **please note that you may get an error and it will ask you for an api key, as the key provided with the program may be expired:**
 
     
