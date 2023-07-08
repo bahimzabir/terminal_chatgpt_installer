@@ -27,7 +27,9 @@ to say "Hi" to chatgpt you can use the following command
     chatgpt "Hi"
 
 if you need to update the api key use:
-    ```chatgpt -k```
+
+    chatgpt -k
+
 
 **please note that you may get an error and it will ask you for an api key, as the key provided with the program may be expired:**
 
