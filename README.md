@@ -1,5 +1,9 @@
+
 # Terminal chatgbt installer for MacOS
 
+**Source Code Repo:** <link>https://github.com/bahimzabir/terminal_chatgpt_src<link />
+
+#
 this shell scripte will downlaod and install a program that you can run in your zshell or bash command line. it support only macos MacOSx64  architecture.
 
 <img width="444" alt="Screen Shot 2023-04-08 at 4 27 39 AM" src="https://user-images.githubusercontent.com/86854620/230703438-c6237c39-d431-4cf5-9647-25fc337551df.png">
